@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/schneluc/OneDrive - adidas/3. Master Program/3. Vorlesungsunterlagen/1. Semester/Alogithm Engineering/firstSteps/matrixMultiplication/main.cpp
+iostream
+-
+array
+-
+chrono
+-
+
